@@ -1,0 +1,15 @@
+{
+  "name": "web-audio-components-white-noise",
+  "description": "A simple white noise generator",
+  "version": "0.0.1",
+  "keywords": [
+    "web-audio",
+    "generator",
+    "white-noise",
+    "noise",
+    "static",
+    "fuzz"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
